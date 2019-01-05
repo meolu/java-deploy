@@ -32,7 +32,7 @@
 
   <build>
     <!--<finalName>A</finalName>-->
-    <finalName>B</finalName>
+    <finalName>walle-web</finalName>
     <pluginManagement><!-- lock down plugins versions to avoid using Maven defaults (may be moved to parent pom) -->
       <plugins>
         <plugin>
